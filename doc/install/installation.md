@@ -43,7 +43,7 @@ brew install mongodb redis
 First install [nvm](https://github.com/creationix/nvm) to install manage Node.js versions
 
 ```bash
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
 ```
 
 Reload your shell and then install Node.js
